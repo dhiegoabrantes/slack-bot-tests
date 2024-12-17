@@ -1,0 +1,4 @@
+slack_bolt
+blockkit
+pydantic
+slack_sdk
