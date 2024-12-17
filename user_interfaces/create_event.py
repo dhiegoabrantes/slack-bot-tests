@@ -5,6 +5,8 @@ from model.event import Event
 from services.deploy_type.deploy_type import DeployType
 from services.deploy_type.services import get_deploy_types
 
+# dhiego
+
 INITIATIVES = "initiatives"
 INITIATIVES_ACTION = "initiatives-action"
 APPLICATIONS = "applications"
